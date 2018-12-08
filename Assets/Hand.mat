@@ -8,8 +8,8 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: Hand
   m_Shader: {fileID: 4800000, guid: d7730c2ef84884dacab76d02c257d58d, type: 3}
-  m_ShaderKeywords: KAMAKURA_OUTLINE_ON KAMAKURA_RIM_ON KAMAKURA_SHADOWMOD_ON _EMISSION
-    _OUTLINEWRITEZ_ON _SHADOWMODBLENDMODE_MULTIPLY
+  m_ShaderKeywords: KAMAKURA_EMISSION_ON KAMAKURA_OUTLINE_ON KAMAKURA_RIM_ON KAMAKURA_SHADOWMOD_ON
+    _EMISSION _ENABLEFILTER_ON _OUTLINEWRITEZ_ON _SHADOWMODBLENDMODE_MULTIPLY
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -86,7 +86,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecularTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 13082190cd61b4ae6bd3f9af876a29f4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -105,8 +105,8 @@ Material:
     - _EmissionPower: 0.5
     - _EnableCubeColor: 0
     - _EnableCutout: 0
-    - _EnableEmission: 0
-    - _EnableFilter: 0
+    - _EnableEmission: 1
+    - _EnableFilter: 1
     - _EnableHatch: 0
     - _EnableLocalLight: 0
     - _EnableNormal: 0
@@ -156,9 +156,9 @@ Material:
     - _ShadowModUseFilter: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.064
-    - _SpecularPower: 60
-    - _SpecularSmoothness: 0.05
+    - _SpecularIntensity: 0.04
+    - _SpecularPower: 500
+    - _SpecularSmoothness: 0.7
     - _SrcBlend: 1
     - _StencilComp: 0
     - _StencilFail: 0
