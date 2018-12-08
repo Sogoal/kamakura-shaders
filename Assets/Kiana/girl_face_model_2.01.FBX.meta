@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 4727f6c0ed90c30469e3fe66b4b90358
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001 Head
+    100002: Bridge of the nose
+    100004: Chin
+    100006: Eorehead
+    100008: girl_A_face_001
+    100010: //RootNode
+    100012: girl_hounaoshao
+    100014: H_Lip bead
+    100016: L_Brow
+    100018: L_Brows
+    100020: L_Cheek
+    100022: L_Cheekbones
+    100024: L_Corners of the mouth
+    100026: L_Eye
+    100028: L_Eyebrow
+    100030: L_Eyelash
+    100032: L_H_Lips
+    100034: L_Inner corner of the eye
+    100036: L_L_Lips
+    100038: L_Lip bead
+    100040: L_Lower eyelid
+    100042: L_Masseter muscle
+    100044: L_Maxillofacial bone
+    100046: L_People in
+    100048: L_Profile
+    100050: L_R_Lips
+    100052: L_Risorius
+    100054: L_The outer corner of the eye
+    100056: L_Tooth
+    100058: L_Upper eyelid
+    100060: Mouth
+    100062: Nose
+    100064: People in
+    100066: R_Brow
+    100068: R_Brows
+    100070: R_Cheek
+    100072: R_Cheekbones
+    100074: R_Corners of the mouth
+    100076: R_Eye
+    100078: R_Eyebrow
+    100080: R_Eyelash
+    100082: R_H_Lips
+    100084: R_Inner corner of the eye
+    100086: R_Lower eyelid
+    100088: R_Masseter muscle
+    100090: R_Maxillofacial bone
+    100092: R_People in
+    100094: R_Profile
+    100096: R_Risorius
+    100098: R_The outer corner of the eye
+    100100: R_Upper eyelid
+    100102: Upper teeth
+    400000: Bip001 Head
+    400002: Bridge of the nose
+    400004: Chin
+    400006: Eorehead
+    400008: girl_A_face_001
+    400010: //RootNode
+    400012: girl_hounaoshao
+    400014: H_Lip bead
+    400016: L_Brow
+    400018: L_Brows
+    400020: L_Cheek
+    400022: L_Cheekbones
+    400024: L_Corners of the mouth
+    400026: L_Eye
+    400028: L_Eyebrow
+    400030: L_Eyelash
+    400032: L_H_Lips
+    400034: L_Inner corner of the eye
+    400036: L_L_Lips
+    400038: L_Lip bead
+    400040: L_Lower eyelid
+    400042: L_Masseter muscle
+    400044: L_Maxillofacial bone
+    400046: L_People in
+    400048: L_Profile
+    400050: L_R_Lips
+    400052: L_Risorius
+    400054: L_The outer corner of the eye
+    400056: L_Tooth
+    400058: L_Upper eyelid
+    400060: Mouth
+    400062: Nose
+    400064: People in
+    400066: R_Brow
+    400068: R_Brows
+    400070: R_Cheek
+    400072: R_Cheekbones
+    400074: R_Corners of the mouth
+    400076: R_Eye
+    400078: R_Eyebrow
+    400080: R_Eyelash
+    400082: R_H_Lips
+    400084: R_Inner corner of the eye
+    400086: R_Lower eyelid
+    400088: R_Masseter muscle
+    400090: R_Maxillofacial bone
+    400092: R_People in
+    400094: R_Profile
+    400096: R_Risorius
+    400098: R_The outer corner of the eye
+    400100: R_Upper eyelid
+    400102: Upper teeth
+    2100000: 08 - Default
+    2100002: 16 - Default
+    2100004: 13 - Default
+    2100006: 07 - Default
+    2100008: 01 - Default
+    2100010: 'Material #1316'
+    2300000: girl_hounaoshao
+    3300000: girl_hounaoshao
+    4300000: girl_A_face_001
+    4300002: girl_hounaoshao
+    9500000: //RootNode
+    13700000: girl_A_face_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
