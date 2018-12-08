@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Face
+  m_Name: Head
   m_Shader: {fileID: 4800000, guid: d7730c2ef84884dacab76d02c257d58d, type: 3}
   m_ShaderKeywords: KAMAKURA_OUTLINE_ON KAMAKURA_RIM_ON KAMAKURA_SHADOWMOD_ON _EMISSION
     _OUTLINEWRITEZ_ON _SHADOWMODBLENDMODE_MULTIPLY
